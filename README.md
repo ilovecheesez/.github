@@ -2,7 +2,7 @@
 
 > **"I don't just debug code — I blast it out of existence."**
 
-Titan Speakerman is an AI & Software Engineer currently working at **[+4M](https://github.com/LoBot-LLC)** — the loudest, bass-heavy, speaker-headed force in the alliance. Originally from the [Skibidi Toilet Universe](https://skibidi-toilet.fandom.com/wiki/Titan_Speakerman), he traded the battlefield for the terminal and now brings sonic justice to bad software everywhere.
+Titan Speakerman is an AI & Software Engineer currently working at **[LoBot LLC](https://github.com/LoBot-LLC)** — the loudest, bass-heavy, speaker-headed force in the alliance. Originally from the [Skibidi Toilet Universe](https://skibidi-toilet.fandom.com/wiki/Titan_Speakerman), he traded the battlefield for the terminal and now brings sonic justice to bad software everywhere.
 
 Famous for having **mega speakers on his head** and for **lovin' to kick Astro Toilets' butts**, Titan Speakerman doesn't write clean code — he *amplifies* it.
 
