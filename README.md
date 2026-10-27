@@ -71,7 +71,7 @@ Titan Speakerman's build is stacked louder than his speaker array:
 | MCP | Purpose |
 |-----|---------|
 | **Playwright** | Browser automation so thorough it could kick an Astro Toilet's butt across the DOM |
-| **Reverse Engineer Anything (REA)** | Because sometimes you just need to see how the enemy's speakers are wired |
+| **Reverse Engineer Anything (REA)** | Because sometimes you just need to see how the enemy Astro Toilets are wired |
 
 ---
 
