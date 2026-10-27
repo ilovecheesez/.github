@@ -18,9 +18,9 @@ Famous for having **mega speakers on his head** and for **lovin' to kick Astro T
 
 When Titan Speakerman boots up, he doesn't play lo-fi. He plays:
 
-- **[Everybody Wants to Rule the World — Tears for Fears](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)**  
+- **[Everybody Wants to Rule the World — Tears for Fears](https://www.youtube.com/watch?v=aGCdLKXNF3w&list=RDaGCdLKXNF3w&start_radio=1)**  
   Because world domination starts with a clean `git push`.
-- **[The Uncanny Valley — Perturbator](https://perturbator.bandcamp.com/album/the-uncanny-valley)**  
+- **[The Uncanny Valley — Perturbator](https://www.youtube.com/watch?v=5YbHjRC_CFE&list=RD5YbHjRC_CFE&start_radio=1)**  
   For those late-night debug sessions where the stack traces look… *almost* human.
 
 ---
